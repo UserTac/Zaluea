@@ -6,4 +6,5 @@ So far there is only one game. More will be added soon.
 
 ## Credits
 Zaluea uses [Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet)
+
 Huge thanks to TheIcy for making this.
